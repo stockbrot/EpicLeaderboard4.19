@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\Documents\Unreal Projects\PackageMan 4.19\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\Module.EpicLeaderboard.cpp.obj"
+"D:\Documents\Unreal Projects\PackageMan 4.19\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\Module.EpicLeaderboard.gen.cpp.obj"
+"D:\Documents\Unreal Projects\PackageMan 4.19\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\PCLaunch.rc.res"
+/OUT:"D:\Documents\Unreal Projects\PackageMan 4.19\Plugins\EpicLeaderboard\Binaries\Win64\UE4-EpicLeaderboard.lib"
